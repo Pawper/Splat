@@ -1,0 +1,26 @@
+{
+  "name": "splat",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pawper/Splat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pawper/Splat/issues"
+  },
+  "homepage": "https://github.com/Pawper/Splat#readme",
+  "dependencies": {
+    "bootstrap": "^5.0.0-alpha1",
+    "bootstrap-icons": "^1.0.0-alpha5",
+    "popper.js": "^1.16.1"
+  },
+  "devDependencies": {},
+  "description": ""
+}
